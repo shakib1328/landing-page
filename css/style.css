@@ -75,6 +75,7 @@ section.product-gellary {
     display: flex;
     flex-wrap: wrap;
     margin: auto;
+    padding: 0 0 80px 0;
 }
 
 .product {
@@ -107,4 +108,15 @@ section.product-gellary {
     text-align: center;
     font-size: 22px;
     color: #0db14b;
+}
+
+.footer{
+
+    text-align: center;
+    padding: 20px 0px;
+    letter-spacing: 2px;
+    background: #037fcf;
+    color: #fff;
+    font-size: 20px;
+
 }
