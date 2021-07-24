@@ -8,6 +8,7 @@ div{
 .container{
     width:1200px;
     margin: auto;
+    box-shadow: 0px 0px 10px 0 rgb(0 0 0 / 20%);
     
 }
 
